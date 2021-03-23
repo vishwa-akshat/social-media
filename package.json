@@ -1,0 +1,26 @@
+{
+  "name": "social-media",
+  "version": "1.0.0",
+  "description": "Fullstack MERNG Social Media App",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vishwa-akshat/social-media.git"
+  },
+  "author": "Akshat Vishwakarma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vishwa-akshat/social-media/issues"
+  },
+  "homepage": "https://github.com/vishwa-akshat/social-media#readme",
+  "dependencies": {
+    "apollo-server": "^2.21.2",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.1"
+  }
+}
